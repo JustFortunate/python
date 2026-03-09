@@ -1,2 +1,2 @@
 def solve(puzzle):
-    pass
+    the
